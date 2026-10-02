@@ -1,0 +1,1 @@
+{ "description": "Fine Print: records the turn's Edit/Write/Read/Bash results, audits the final answer against them at turn end, and draws the card in a pane", "modules": ["./register.tsx"] }

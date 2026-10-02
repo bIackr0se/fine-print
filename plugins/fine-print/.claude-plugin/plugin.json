@@ -1,0 +1,6 @@
+{
+  "name": "fine-print",
+  "version": "0.1.0",
+  "description": "Opens a card when Claude's final answer omits a recorded file change or a recognized command with side effects, or makes a test or Git claim the recorded results do not fully back. Step through the diffs and prepare an editable question.",
+  "author": { "name": "JR" }
+}

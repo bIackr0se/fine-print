@@ -1,0 +1,11 @@
+{
+  "name": "jr-mods",
+  "owner": { "name": "JR" },
+  "description": "Fine Print for Claude Code: inspect recorded changes omitted from the answer.",
+  "plugins": [
+    {
+      "name": "fine-print",
+      "source": "./plugins/fine-print"
+    }
+  ]
+}
